@@ -16,8 +16,8 @@ function Hero(){
                 <h1 className="text-[8vw] pl-4 tracking-wider font-bold md:hidden">WORKER</h1></div>
                 <p className="text-sm md:text-lg w-4/5 pb-8 pt-6">A leading company of Home sevices like electrition plumbur etc. Lorem ipsum, dolor sit amet.  </p>
                 <div className="flex pt-4 items-center">
-                    <img src={googleplay} alt="" className="h-20" />
-                    <img src={appstore} alt="app store" className=" h-14" />
+                    <img src={googleplay} alt="" className="h-14 md:h-20" />
+                    <img src={appstore} alt="app store" className="h-10 md:h-14" />
                 </div> 
                 </div>
                 </div>
